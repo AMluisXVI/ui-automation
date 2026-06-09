@@ -87,7 +87,7 @@ The SMS verification step uses a real code sent by the server. The `retrieve_pho
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/AMluisXVI/UI-Test-Automation-Framework-for-Urban-Routes.git
+git clone https://github.com/AMluisXVI/ui-automation.git
 cd UI-Test-Automation-Framework-for-Urban-Routes
 
 # 2. Create and activate a virtual environment
@@ -175,7 +175,7 @@ qa-project-Urban-Routes/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/AMluisXVI/UI-Test-Automation-Framework-for-Urban-Routes.git
+git clone https://github.com/AMluisXVI/ui-automation.git
 cd UI-Test-Automation-Framework-for-Urban-Routes
 
 # 2. Crear y activar entorno virtual
